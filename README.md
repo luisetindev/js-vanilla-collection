@@ -2,7 +2,7 @@
 
 **Cualquier sugerencia de mini proyecto se agradece!**
 
-1. Todo List 
+1. ~~Todo List~~ 
     - CRUD de todos
     - Localstorage
 
