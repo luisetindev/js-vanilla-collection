@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.todo-completed{
+    text-decoration: line-through;
+    color: grey;
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: cetner;
+    align-items: centeR;
+}
+
+.controls {
+    display: flex;
+    gap: 20px;
+}
